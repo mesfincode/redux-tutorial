@@ -14,7 +14,7 @@ const Post = () => {
 
   }
   return (
-    <div className=" ">
+    <div className=" bg-black text-white h-screen ">
       <div className="flex justify-center items-center h-full">
         <div className="grid grid-cols-3 gap-4">
           {posts.map((post) => (

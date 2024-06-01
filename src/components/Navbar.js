@@ -3,8 +3,8 @@ import Search from "./Search";
 
 const Navbar = () => {
   return (
-    <div className="bg-gray-500">
-      <div className="  mx-8 sm:mx-16 py-4 flex justify-between items-center">
+    <div className= "hidden sm:block fixed left-0 right-0 bg-gray-500">
+      <div className="  mx-8 sm:mx-16 h-[70px] flex justify-between items-center">
         {/* logo */}
         <a href="/">Logo</a>
 
