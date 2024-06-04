@@ -14,7 +14,7 @@ const MobileNav = () => {
 
   const DrawerList = (
 
-    <div className="bg-slate-400 h-full flex gap-4 flex-col pt-8 px-4  w-[250px] ">
+    <div className="bg-slate-400  h-full flex gap-4 flex-col pt-8 px-4  w-[250px] ">
        <a href="/" className="bg-blue-400 px-4 py-2 rounded-lg w-full">Home</a>
        <a href="/" className="bg-blue-400 px-4 py-2 rounded-lg w-full">About</a>
     </div>

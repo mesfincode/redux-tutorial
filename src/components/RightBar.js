@@ -2,7 +2,7 @@ import React from 'react'
 
 const RightBar = () => {
   return (
-    <div className='w-[250px] mt-[70px] hidden lg:block bg-slate-500 h-full fixed right-0'>
+    <div className='w-[250px]  rounded-l-lg hidden lg:block border-l-2 border-primary-1 h-full fixed right-0'>
       
     </div>
   )

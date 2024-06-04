@@ -9,8 +9,8 @@ import MobileNav from './components/MobileNav';
 
 function App() {
   return (
-    <div >
-      <Navbar />
+    <div  className=''>
+      {/* <Navbar /> */}
       <MobileNav />
     {/* <Counter/> */}
     <Sidebar />

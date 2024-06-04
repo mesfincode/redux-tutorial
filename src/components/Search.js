@@ -2,7 +2,7 @@ import React from "react";
 
 const Search = () => {
   return (
-    <div class="relative">
+    <div class="relative w-[300px]">
       <input
         type="text"
         class="block w-full pr-10 pl-3 py-2 border border-gray-300 rounded-md bg-transparent focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
